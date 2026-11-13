@@ -1,6 +1,6 @@
 
 # Python Final Project
-This is my final project for my Python Course. Below is the link to the dataset I will be using, as well as the Colab Notebook I used in my analysis.
+This is my final project for my Python Course. Below is the link to the dataset I will be using. You can also find the notebook that I used for my analysis above. 
 
 ## Sleep Health and Lifestyle
 https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
